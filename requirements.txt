@@ -1,0 +1,4 @@
+telethon
+pyTelegramBotAPI
+pyCryptoPayAPI
+requests
